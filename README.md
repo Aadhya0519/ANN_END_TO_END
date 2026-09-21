@@ -1,5 +1,8 @@
 # 🔋 EV Battery Cell Quality Prediction using ANN
 
+
+🚀 **Live Demo:** [Open Hugging Face App](https://huggingface.co/spaces/manisha2929k/ev-battery-qc-ann)
+
 ## 📌 Project Overview
 
 This project predicts the quality grade of electric vehicle battery cells using an Artificial Neural Network (ANN). It classifies battery cells into one of three quality categories based on manufacturing and performance parameters.
